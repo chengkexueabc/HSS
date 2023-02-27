@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\HSS.SignalRDemo.props" />
+</Project>

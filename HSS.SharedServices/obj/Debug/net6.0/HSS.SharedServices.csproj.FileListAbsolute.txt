@@ -1,0 +1,17 @@
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\bin\Debug\net6.0\HSS.SharedServices.deps.json
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\bin\Debug\net6.0\HSS.SharedServices.dll
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\bin\Debug\net6.0\HSS.SharedServices.pdb
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\bin\Debug\net6.0\HSS.Common.dll
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\bin\Debug\net6.0\HSS.SharedModels.dll
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\bin\Debug\net6.0\HSS.Common.pdb
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\bin\Debug\net6.0\HSS.SharedModels.pdb
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\obj\Debug\net6.0\HSS.SharedServices.csproj.AssemblyReference.cache
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\obj\Debug\net6.0\HSS.SharedServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\obj\Debug\net6.0\HSS.SharedServices.AssemblyInfoInputs.cache
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\obj\Debug\net6.0\HSS.SharedServices.AssemblyInfo.cs
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\obj\Debug\net6.0\HSS.SharedServices.csproj.CoreCompileInputs.cache
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\obj\Debug\net6.0\HSS.SharedServices.csproj.CopyComplete
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\obj\Debug\net6.0\HSS.SharedServices.dll
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\obj\Debug\net6.0\refint\HSS.SharedServices.dll
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\obj\Debug\net6.0\HSS.SharedServices.pdb
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedServices\obj\Debug\net6.0\ref\HSS.SharedServices.dll

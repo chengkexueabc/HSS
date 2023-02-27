@@ -1,0 +1,12 @@
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.Common\bin\Debug\net6.0\HSS.Common.deps.json
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.Common\bin\Debug\net6.0\HSS.Common.dll
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.Common\bin\Debug\net6.0\HSS.Common.pdb
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.Common\obj\Debug\net6.0\HSS.Common.csproj.AssemblyReference.cache
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.Common\obj\Debug\net6.0\HSS.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.Common\obj\Debug\net6.0\HSS.Common.AssemblyInfoInputs.cache
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.Common\obj\Debug\net6.0\HSS.Common.AssemblyInfo.cs
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.Common\obj\Debug\net6.0\HSS.Common.csproj.CoreCompileInputs.cache
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.Common\obj\Debug\net6.0\HSS.Common.dll
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.Common\obj\Debug\net6.0\refint\HSS.Common.dll
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.Common\obj\Debug\net6.0\HSS.Common.pdb
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.Common\obj\Debug\net6.0\ref\HSS.Common.dll

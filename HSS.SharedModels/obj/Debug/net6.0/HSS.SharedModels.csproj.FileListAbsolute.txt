@@ -1,0 +1,12 @@
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedModels\bin\Debug\net6.0\HSS.SharedModels.deps.json
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedModels\bin\Debug\net6.0\HSS.SharedModels.dll
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedModels\bin\Debug\net6.0\HSS.SharedModels.pdb
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedModels\obj\Debug\net6.0\HSS.SharedModels.csproj.AssemblyReference.cache
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedModels\obj\Debug\net6.0\HSS.SharedModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedModels\obj\Debug\net6.0\HSS.SharedModels.AssemblyInfoInputs.cache
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedModels\obj\Debug\net6.0\HSS.SharedModels.AssemblyInfo.cs
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedModels\obj\Debug\net6.0\HSS.SharedModels.csproj.CoreCompileInputs.cache
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedModels\obj\Debug\net6.0\HSS.SharedModels.dll
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedModels\obj\Debug\net6.0\refint\HSS.SharedModels.dll
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedModels\obj\Debug\net6.0\HSS.SharedModels.pdb
+C:\Users\Techer_Cheng\source\repos\codes\help-support-system\src\backend\HSS.SharedModels\obj\Debug\net6.0\ref\HSS.SharedModels.dll

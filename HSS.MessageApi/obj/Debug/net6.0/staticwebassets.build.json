@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3idXHXQJeq5hsxLkb15w6DG4elMzN817LFic6dEtdwg=",
+  "Source": "HSS.MessageApi",
+  "BasePath": "_content/HSS.MessageApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

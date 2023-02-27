@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Techer_Cheng\\source\\repos\\codes\\help-support-system\\src\\backend\\HSS.HubServer\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\HSS.HubServer.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HSS.HubServer.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Techer_Cheng\\source\\repos\\codes\\help-support-system\\src\\backend\\HSS.HubServer\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Techer_Cheng\\source\\repos\\codes\\help-support-system\\src\\backend\\HSS.HubServer\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Techer_Cheng\\source\\repos\\codes\\help-support-system\\src\\backend\\HSS.HubServer\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Techer_Cheng\\source\\repos\\codes\\help-support-system\\src\\backend\\HSS.HubServer\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Techer_Cheng\\source\\repos\\codes\\help-support-system\\src\\backend\\HSS.HubServer\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Techer_Cheng\\source\\repos\\codes\\help-support-system\\src\\backend\\HSS.HubServer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Techer_Cheng\\source\\repos\\codes\\help-support-system\\src\\backend\\HSS.HubServer\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Techer_Cheng\\source\\repos\\codes\\help-support-system\\src\\backend\\HSS.HubServer\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Techer_Cheng\\source\\repos\\codes\\help-support-system\\src\\backend\\HSS.HubServer\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.HSS.HubServer.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.HSS.HubServer.props",
+      "PackagePath": "build\\HSS.HubServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.HSS.HubServer.props",
+      "PackagePath": "buildMultiTargeting\\HSS.HubServer.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.HSS.HubServer.props",
+      "PackagePath": "buildTransitive\\HSS.HubServer.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
